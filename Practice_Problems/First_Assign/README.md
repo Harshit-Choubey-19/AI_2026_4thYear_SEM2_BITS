@@ -1,4 +1,5 @@
 # Problem 1
+**Rationality in Stochastic Environments**
 
 ### PEAS Framework
 
@@ -36,4 +37,5 @@ Expected reward per trial:
 Expected total score over 100 trials: 100 × 0.8 = 80
 
 So typical simulation result will be around ***75–85** *depending on randomness*.
+
 
